@@ -1,5 +1,5 @@
 # nodejs-express
-Exemplo de projeto utilizando NodeJS + Express + MongoDB
+Exemplo de projeto base de Web API utilizando NodeJS
 
 Tecnologias envolvidas no projeto:
 - NodeJS
